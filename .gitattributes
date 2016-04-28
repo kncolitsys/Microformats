@@ -16,4 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-*.xslt linguist-language=ColdFusion
+*.xsl linguist-language=ColdFusion
